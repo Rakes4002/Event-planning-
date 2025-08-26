@@ -76,3 +76,4 @@ Clarinet: For local development and testing
 
 Verification
 Contract source code can be verified on the Stacks blockchain explorer at the addresses listed above. All functions are publicly auditable and transparent.
+<img width="476" height="748" alt="Screenshot 2025-08-26 110419" src="https://github.com/user-attachments/assets/ca55202f-aa67-4f33-9a75-72e85e7b41be" />
