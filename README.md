@@ -56,15 +56,11 @@ Global Event Passport: Universal identity system for event attendees across the 
 Contract Address Details
 STGGBZHHB8N6E7MPN34H3Y79SFSH3JP6Y65KHR74.EventPlanningDAO
 Contract deployment information will be added here upon deployment to the Stacks blockchain.
-Mainnet Address: [To be added after mainnet deployment]
-Testnet Address: [To be added after testnet deployment]
+
 Deployment Details:
 
 Network: Stacks Blockchain
 Contract Language: Clarity
-Deployment Block: [To be updated]
-Transaction ID: [To be updated]
-Gas Used: [To be updated]
 
 Contract Interaction
 To interact with the EventPlanning DAO contract, you can use:
@@ -76,5 +72,7 @@ Clarinet: For local development and testing
 
 Verification
 Contract source code can be verified on the Stacks blockchain explorer at the addresses listed above. All functions are publicly auditable and transparent.
+
+Contract ID: STGGBZHHB8N6E7MPN34H3Y79SFSH3JP6Y65KHR74.EventPlanningDAO
 <img width="1442" height="879" alt="image" src="https://github.com/user-attachments/assets/712e80bb-5124-421f-8041-ddbf4fa3d3b9" />
 
