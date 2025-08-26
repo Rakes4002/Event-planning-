@@ -55,8 +55,6 @@ Global Event Passport: Universal identity system for event attendees across the 
 
 Contract Address Details
 STGGBZHHB8N6E7MPN34H3Y79SFSH3JP6Y65KHR74.EventPlanningDAO
-![Uploading image.png…]()
-
 Contract deployment information will be added here upon deployment to the Stacks blockchain.
 Mainnet Address: [To be added after mainnet deployment]
 Testnet Address: [To be added after testnet deployment]
